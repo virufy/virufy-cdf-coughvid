@@ -1,0 +1,14 @@
+This data was repurposed from the below data reposistory which is also licensed under CC-4.0-BY:
+
+The COUGHVID crowdsourcing dataset: A corpus for the study of large-scale cough analysis algorithms
+https://zenodo.org/record/4498364
+
+Created by Lara Orlandic; Tomas Teijeiro; David Atienza
+
+The research paper is at:
+https://arxiv.org/abs/2009.11644
+
+The cough preprocessing code is at:
+https://c4science.ch/diffusion/10770/
+
+We modified the data to standardize into Virufy Common Data Format as per the code in https://github.com/virufy/virufy_code
